@@ -122,7 +122,4 @@ class ShowImageViewController: UIViewController{
         self.view.addSubview(self.imageCollectionView);
     }
     
-    
-    
-
 }
